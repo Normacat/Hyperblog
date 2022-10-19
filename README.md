@@ -9,5 +9,6 @@ Un blog increíble para el curso de [Git y GitHub](https://platzi.com/cursos/git
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas practicas
 - Las personalidades múltiples de Freddy
+- Creado por una alumna de Platzi
 
 Y como un amable recordatorio: **Este Readme.md es un chiste** Diseñado para el ejemplo, si llegas acá NO LO TOMES EN SERIO y mejor [ve el curso completo.](https://platzi.com/cursos/git-github/ "ve el curso completo.")
